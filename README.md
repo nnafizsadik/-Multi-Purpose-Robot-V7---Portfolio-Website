@@ -30,7 +30,7 @@ The website was fully built from scratch by **Nafiz Sadik** using **React**, **V
 | Language | TypeScript |
 | Styling | Tailwind CSS |
 | Tools | ESLint, PostCSS, Vite |
-| Hosting | Vercel / GitHub Pages |
+| Hosting | Netlify |
 
 
 
